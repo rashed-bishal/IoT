@@ -1,0 +1,6 @@
+c:\users\rashed bishal\documents\visual studio 2017\Projects\UDPServer\UDPServer\bin\Debug\UDPServer.exe.config
+c:\users\rashed bishal\documents\visual studio 2017\Projects\UDPServer\UDPServer\bin\Debug\UDPServer.exe
+c:\users\rashed bishal\documents\visual studio 2017\Projects\UDPServer\UDPServer\bin\Debug\UDPServer.pdb
+c:\users\rashed bishal\documents\visual studio 2017\Projects\UDPServer\UDPServer\obj\Debug\UDPServer.csprojResolveAssemblyReference.cache
+c:\users\rashed bishal\documents\visual studio 2017\Projects\UDPServer\UDPServer\obj\Debug\UDPServer.exe
+c:\users\rashed bishal\documents\visual studio 2017\Projects\UDPServer\UDPServer\obj\Debug\UDPServer.pdb
